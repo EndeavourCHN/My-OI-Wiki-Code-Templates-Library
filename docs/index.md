@@ -12,7 +12,6 @@
 
 ## 内容导航
 
-- [实用基础](cpp/index.md)
 - [算法基础](basic/index.md)
 - [数据结构](ds/index.md)
 - [搜索](search/index.md)
